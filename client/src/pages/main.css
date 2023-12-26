@@ -193,7 +193,7 @@ p {
   box-shadow: 0 0 20px rgba(58, 255, 234, 0.9); /* Glowing effect 
   /*box-shadow: rgba(255, 212, 11, 0.4) 5px 5px, rgba(255, 212, 11, 0.3) 10px 10px;*/
 
-  transform: scale(1.02); /* Enlarge the element on hover */
+  transform: scale(1.002); /* Enlarge the element on hover */
   transition: background-color 0.3s, box-shadow 0.3s, transform 0.3s; /* Apply transitions for smoother animation */
 
 }
