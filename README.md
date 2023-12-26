@@ -100,7 +100,7 @@ The Xcrypt solution leverages these cryptographic methods to create a system whe
 - The main challenge was designing the best possible user experience, which we believe the current implementation achieves.
 - Another challenge was signing and sending withdrawal transactions without using the connected user wallet. We resolved this by creating a custom-built transaction broadcasted via public RPC URLs, which works effectively.
 
-#### Credits
+### Credits
 - The project is being inspired from Umbra Protocol and Hazed and some parts of the code has been used.
 - The deployment on the Viction Blockchain and its integration with the Viction Blockchain is our original work.
 - Also the transfering of 1% of the total amount as platform fees is something that have been done for the first time.
