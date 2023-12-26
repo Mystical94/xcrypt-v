@@ -16,7 +16,7 @@ export const victionTestnet = {
   blockExplorers: {
     default: {
       name: 'Viction Testnet Explorer',
-      url: 'https://scan-ui-testnet.viction.xyz/',
+      url: 'https://testnet.vicscan.xyz/',
     },
   },
 } as const satisfies Chain
